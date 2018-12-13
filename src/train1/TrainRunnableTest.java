@@ -1,5 +1,8 @@
 package train1;
 
+/**
+ * 测试类
+ */
 public class TrainRunnableTest {
     public static void main(String[] args) {
         TrainRunnable trainRunnable = new TrainRunnable();//共享的Runnable对象

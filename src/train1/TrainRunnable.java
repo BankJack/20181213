@@ -1,5 +1,8 @@
 package train1;
 
+/**
+ * 实现Runnable接口
+ */
 public class TrainRunnable implements Runnable {
 
     private int ticket = 20; //20张票
